@@ -6,11 +6,6 @@
   </PropertyGroup>
   
   <PropertyGroup>
-    <PackageId>OctocatApp</PackageId>
-    <Version>1.0.0</Version>
-    <Authors>Octocat</Authors>
-    <Company>GitHub</Company>
-    <PackageDescription>This package adds an Octocat!</PackageDescription>
     <RepositoryUrl>https://github.com/jcansdale-test/PublishPackageTest</RepositoryUrl>
   </PropertyGroup>
 
