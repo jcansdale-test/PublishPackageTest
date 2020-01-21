@@ -5,8 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
   
-  <PropertyGroup>
-    <RepositoryUrl>https://github.com/jcansdale-test/PublishPackageTest</RepositoryUrl>
-  </PropertyGroup>
-
 </Project>
