@@ -3,12 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29525.5
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PublishPackageTest", "PublishPackageTest\PublishPackageTest.csproj", "{4CBB41D9-03C9-4CC3-8A06-BC0FEE4D80BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PublishPackageTest", "PublishPackageTest\PublishPackageTest.csproj", "{4CBB41D9-03C9-4CC3-8A06-BC0FEE4D80BE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{44DE28BA-0D44-48F6-88D1-26E715A79B0C}"
 	ProjectSection(SolutionItems) = preProject
 		nuget.config = nuget.config
-		publish.cmd = publish.cmd
+		publish_using_dotnet.cmd = publish_using_dotnet.cmd
+		publish_using_nuget.cmd = publish_using_nuget.cmd
 	EndProjectSection
 EndProject
 Global
